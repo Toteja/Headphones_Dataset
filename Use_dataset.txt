@@ -1,0 +1,3 @@
+to use the dataset on google colab, simply use the following command : 
+
+!git clone [repo_link]
